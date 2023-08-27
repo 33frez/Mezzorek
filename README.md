@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mezzorek
+- 👋 Hi, I’m @33frez
 - 👀 I’m interested in ... (Programming)
 - 🌱 I’m currently learning ... (Java & JavaScript)
 
